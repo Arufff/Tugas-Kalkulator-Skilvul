@@ -1,0 +1,15 @@
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\obj\Debug\net6.0\Tugas-Kalkulator.csproj.AssemblyReference.cache
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\obj\Debug\net6.0\Tugas-Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\obj\Debug\net6.0\Tugas-Kalkulator.AssemblyInfoInputs.cache
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\obj\Debug\net6.0\Tugas-Kalkulator.AssemblyInfo.cs
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\obj\Debug\net6.0\Tugas-Kalkulator.csproj.CoreCompileInputs.cache
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\bin\Debug\net6.0\Tugas-Kalkulator.exe
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\bin\Debug\net6.0\Tugas-Kalkulator.deps.json
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\bin\Debug\net6.0\Tugas-Kalkulator.runtimeconfig.json
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\bin\Debug\net6.0\Tugas-Kalkulator.dll
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\bin\Debug\net6.0\Tugas-Kalkulator.pdb
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\obj\Debug\net6.0\Tugas-Kalkulator.dll
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\obj\Debug\net6.0\refint\Tugas-Kalkulator.dll
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\obj\Debug\net6.0\Tugas-Kalkulator.pdb
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\obj\Debug\net6.0\Tugas-Kalkulator.genruntimeconfig.cache
+D:\Git Dekstop\Skilvul\Tugas-Kalkulator\obj\Debug\net6.0\ref\Tugas-Kalkulator.dll
